@@ -1,0 +1,9 @@
+#accuracyBtn{
+    transition: none;
+    position: absolute;
+    top: 0;
+    right: 0;   
+   
+    border: none;
+    font-weight: 500;
+}
